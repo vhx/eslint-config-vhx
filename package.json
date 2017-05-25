@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-vhx",
+  "name": "@vhx/eslint-config-vhx",
   "version": "0.0.1",
   "description": "VHX Shared Eslint Config",
   "main": "index.js",
