@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-vhx",
+  "version": "0.0.1",
+  "description": "VHX Shared Eslint Config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhx/eslint-config-vhx.git"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-config-airbnb": ">= 15",
+    "eslint-plugin-react": ">= 7",
+    "eslint-plugin-jsx-a11y": ">= 5",
+    "eslint-plugin-import": ">= 2"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "vhx"
+  ],
+  "author": "VHX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhx/eslint-config-vhx/issues"
+  },
+  "homepage": "https://github.com/vhx/eslint-config-vhx#readme"
+}
