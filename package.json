@@ -1,6 +1,6 @@
 {
   "name": "@vhx/eslint-config-vhx",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "VHX Shared Eslint Config",
   "main": "index.js",
   "repository": {
