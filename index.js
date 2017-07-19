@@ -35,6 +35,7 @@ module.exports = {
 		"arrow-body-style": [0],
 		"jsx-quotes": [2, "prefer-single"],
 		"jsx-a11y/no-static-element-interactions": [1],
+		"jsx-a11y/href-no-hash": [0],
 		"react/jsx-curly-spacing": [0, "always"],
 		"react/jsx-boolean-value": [0],
 		"react/no-danger": [0],
